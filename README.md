@@ -5,7 +5,7 @@ This project provides an **interactive visual exploration** of **regional trends
 
 #### 🛠️ Key Features  
 - **Data Analysis & Summary Statistics** 📊 (Python)  
-- **Statistical & Exploratory Data Analysis** 🧠 (R)  
+- **Statistical & Exploratory Data Analysis** 🧠 (Python)  
 - **Interactive Dashboards & Visualizations** 📈 (Tableau)  
 - **Global Index Comparisons** 🌍 (Economic, Social, and Development Metrics)  
 
